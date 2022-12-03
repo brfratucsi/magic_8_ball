@@ -1,16 +1,6 @@
 # magic_8_ball
 
-A new Flutter project.
+Aplicativo Flutter desenvolvido durante as aulas de dispositivos móveis II com o professor Esdras.
+Este projeto simula uma Bola 8 mágica que é um brinquedo inventado nos EUA na década de 50. Nele você faz perguntas e consulta suas respostas. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![This is an image](https://github.com/brfratucsi/music_box/blob/main/assets/images/print_app.png)   <br />  <br />
